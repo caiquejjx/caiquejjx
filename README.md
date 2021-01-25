@@ -2,8 +2,7 @@
 
 ## I'm a FullStack Developer!
 
-- 🔭 I’m currently working on a Lua game!
-- 🌱 I’m currently learning Lua and improving my Typescript skills
+- 🌱 I’m currently learning Elixir && Golang and improving my Javascript skills
 
 ## Languages and Tools:
 
