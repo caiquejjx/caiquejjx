@@ -2,7 +2,7 @@
 
 ## I'm a FullStack Developer!
 
-- 🌱 I’m currently going deeper in the computer science and improving my systems design skills
+- 🌱 I’m currently going deeper in computer science and improving my systems design skills
 
 ## Languages and Tools:
 
