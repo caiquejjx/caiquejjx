@@ -2,7 +2,7 @@
 
 ## I'm a FullStack Developer!
 
-- 🌱 I’m currently learning Elixir && Golang and improving my Javascript skills
+- 🌱 I’m currently going deeper in the computer science and improving my systems design skills
 
 ## Languages and Tools:
 
