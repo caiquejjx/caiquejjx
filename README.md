@@ -19,4 +19,6 @@
 <br />
 <br />
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=caiquejjx&theme=dark)](https://git.io/streak-stats)
+
 **"Success is stumbling from failure to failure with no loss of enthusiasm."**
