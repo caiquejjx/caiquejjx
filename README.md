@@ -1,9 +1,3 @@
-### Hi there, I'm Caíque 👋
-
-## I'm a Software Engineer!
-
-- 🌱 I’m currently going deeper in computer science and improving my systems design skills
-
 ## Languages and Tools:
 
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
