@@ -12,7 +12,7 @@
 <img align="left" alt="Node.js" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Python" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />
 <img align="left" alt="Java" width="35px" src="https://logospng.org/download/java/logo-java-512.png" />
-<img align="left" alt="C#" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
+<img align="left" alt="C#" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
 
 <br />
 <br />
